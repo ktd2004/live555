@@ -1,4 +1,4 @@
-au BufRead *.c,*.cpp,*.h,*.hh set tabstop=8 softtabstop=2 shiftwidth=2 smarttab autoindent smartindent
+au BufRead *.c,*.cpp,*.h,*.hh set tabstop=8 softtabstop=2 shiftwidth=2 smarttab expandtab autoindent smartindent cindent backspace=2
 
 let g:alternateExtensions_cpp = "h,hh"
 let g:alternateExtensions_hh = "cpp"
