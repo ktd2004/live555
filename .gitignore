@@ -57,6 +57,7 @@
 /liveMedia/FramedFilter.o
 /liveMedia/FramedSource.o
 /liveMedia/GSMAudioRTPSink.o
+/liveMedia/GenericMediaServer.o
 /liveMedia/H261VideoRTPSource.o
 /liveMedia/H263plusVideoFileServerMediaSubsession.o
 /liveMedia/H263plusVideoRTPSink.o
